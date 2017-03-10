@@ -1,1 +1,1 @@
-# templating-in-angular-and-flask
+# Templating in Angular and Flask
